@@ -15,7 +15,7 @@ We build on top of open source and like sharing what we’ve learned. Here are s
 
 ## Follow Us
 
-| [Engineering Blog](https://tech.axelerant.com) | [Company Blog](https://tech.axelerant.com) |
+| [Engineering Blog](https://tech.axelerant.com) | [Company Blog](https://www.axelerant.com/blog) |
 | ---------------------------------------------- | ------------------------------------------ |
 
 | [LinkedIn](https://www.linkedin.com/company/axelerant/) | [Twitter](https://twitter.com/axelerant) | [Instagram](https://www.instagram.com/axelerantcom/) |
