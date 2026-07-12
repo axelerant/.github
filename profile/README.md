@@ -41,20 +41,6 @@ Deep enough to lead each on its own. Integrated enough to run as one accountable
   </tr>
 </table>
 
-## Built in the open.
-
-Our public work reflects how we deliver: practical automation, engineering quality, developer experience, and shared ways of working.
-
-| Focus | Project | Built for |
-| --- | --- | --- |
-| Delivery automation | [`platformsh-action`](https://github.com/axelerant/platformsh-action) | Deploying to Platform.sh and cleaning up inactive environments with GitHub Actions. |
-| Quality engineering | [`drupal-quality-checker`](https://github.com/axelerant/drupal-quality-checker) | Running consistent pre-commit quality checks across Drupal projects. |
-| AI-assisted delivery | [`drupal-sdlc-plugin`](https://github.com/axelerant/drupal-sdlc-plugin) | Bringing AI-native automation into Drupal delivery workflows. |
-| Developer platforms | [`backstage-plugins`](https://github.com/axelerant/backstage-plugins) | Extending Backstage with Axelerant-maintained platform integrations. |
-| Shared practice | [`engg-handbook`](https://github.com/axelerant/engg-handbook) | Sharing how our engineers plan, build, review, and learn. |
-
-Explore all our [public repositories](https://github.com/orgs/axelerant/repositories) or read the [Axelerant Engineering Handbook](https://engg-handbook.axelerant.com/).
-
 ## A human runs the work. AI runs underneath.
 
 AI accelerates research, delivery, and operations. People stay accountable for the architecture, the decisions, the quality, and the metric we are here to move.
