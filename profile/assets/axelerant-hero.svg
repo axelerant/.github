@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
+  <title id="title">Axelerant — Intelligence that delivers.</title>
+  <desc id="description">A warm editorial banner introducing Axelerant as a digital experience agency across strategy, design, engineering, and revenue operations and growth.</desc>
+
+  <defs>
+    <style>
+      .sans { font-family: Inter, "Helvetica Neue", Arial, sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; letter-spacing: 2.1px; }
+    </style>
+    <clipPath id="frame-clip">
+      <rect x="40" y="142" width="1120" height="336" />
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="520" fill="#ECEBE6" />
+
+  <g fill="none" stroke="#161616" stroke-opacity="0.14">
+    <path d="M0 72H1200M0 114H1200" />
+    <path d="M650 0V72M852 0V72M1030 0V72" />
+  </g>
+
+  <g transform="translate(30 10) scale(.78)" fill="#F25A02">
+    <path d="M23.9423 35.8047L5.04998 57.9879L1.64518 54.5806C-0.426431 52.5065-0.557758 49.1909 1.34287 46.9607L11.3119 35.2571L2.47781 26.4106C-0.619704 23.3081-0.815469 18.3496 2.02681 15.0118L3.4814 13.3044L23.8605 33.7083C24.4305 34.2783 24.4676 35.1902 23.9448 35.8047H23.9423Z" />
+    <path d="M37.4722 19.9207L35.1181 22.6837L25.553 13.1062C22.4555 10.0062 22.2598 5.04523 25.102 1.70736L26.5566 0L37.1005 10.5588C39.6454 13.1062 39.8065 17.18 37.4722 19.9207Z" />
+    <path d="M33.7403 24.3018L28.3407 30.643C27.7559 31.3319 26.7077 31.3716 26.0684 30.7323L17.6878 22.3417C14.5903 19.2417 14.3945 14.2808 17.2368 10.9454L18.6939 9.23554L33.7428 24.3043L33.7403 24.3018Z" />
+    <path d="M20.9786 44.9337L26.3781 38.5925C26.963 37.9036 28.0111 37.864 28.6505 38.5033L36.4289 46.2917C39.8659 49.7336 40.084 55.2373 36.9295 58.9394L36.025 60L20.9761 44.9312L20.9786 44.9337Z" />
+  </g>
+  <text x="70" y="48" class="sans" fill="#161616" font-size="28" font-weight="700">axelerant</text>
+
+  <g class="mono" font-size="10" font-weight="700">
+    <text x="40" y="99" fill="#F25A02">DIGITAL EXPERIENCE AGENCY</text>
+    <text x="300" y="99" fill="#686762">PEOPLE</text>
+    <text x="359" y="99" class="serif" fill="#161616" font-size="16" letter-spacing="0">150+</text>
+    <text x="455" y="99" fill="#686762">COUNTRIES</text>
+    <text x="543" y="99" class="serif" fill="#161616" font-size="16" letter-spacing="0">12</text>
+  </g>
+
+  <rect x="40.5" y="142.5" width="1119" height="335" fill="none" stroke="#F25A02" />
+  <path d="M758 142V478" stroke="#161616" stroke-opacity="0.15" />
+
+  <g clip-path="url(#frame-clip)" transform="translate(950 214) scale(4.6)" fill="#F25A02" opacity="0.045">
+    <path d="M23.9423 35.8047L5.04998 57.9879L1.64518 54.5806C-0.426431 52.5065-0.557758 49.1909 1.34287 46.9607L11.3119 35.2571L2.47781 26.4106C-0.619704 23.3081-0.815469 18.3496 2.02681 15.0118L3.4814 13.3044L23.8605 33.7083C24.4305 34.2783 24.4676 35.1902 23.9448 35.8047H23.9423Z" />
+    <path d="M37.4722 19.9207L35.1181 22.6837L25.553 13.1062C22.4555 10.0062 22.2598 5.04523 25.102 1.70736L26.5566 0L37.1005 10.5588C39.6454 13.1062 39.8065 17.18 37.4722 19.9207Z" />
+    <path d="M33.7403 24.3018L28.3407 30.643C27.7559 31.3319 26.7077 31.3716 26.0684 30.7323L17.6878 22.3417C14.5903 19.2417 14.3945 14.2808 17.2368 10.9454L18.6939 9.23554L33.7428 24.3043L33.7403 24.3018Z" />
+    <path d="M20.9786 44.9337L26.3781 38.5925C26.963 37.9036 28.0111 37.864 28.6505 38.5033L36.4289 46.2917C39.8659 49.7336 40.084 55.2373 36.9295 58.9394L36.025 60L20.9761 44.9312L20.9786 44.9337Z" />
+  </g>
+
+  <g class="mono" font-size="10" font-weight="700" fill="#161616">
+    <rect x="80" y="180" width="22" height="2" fill="#F25A02" />
+    <text x="118" y="185">STRATEGY</text>
+    <text x="218" y="185" fill="#8E8C85">·</text>
+    <text x="244" y="185">DESIGN</text>
+    <text x="323" y="185" fill="#8E8C85">·</text>
+    <text x="349" y="185">ENGINEERING</text>
+    <text x="474" y="185" fill="#8E8C85">·</text>
+    <text x="500" y="185">REVOPS &amp; GROWTH</text>
+  </g>
+
+  <text x="80" y="277" class="serif" fill="#161616" font-size="70" font-weight="600" letter-spacing="-1.5">Intelligence</text>
+  <text x="80" y="351" class="serif" fill="#F25A02" font-size="70" font-style="italic" font-weight="600" letter-spacing="-1.8">that delivers.</text>
+
+  <g class="sans" fill="#343330" font-size="19">
+    <text x="80" y="401">Strategy through delivery, design, engineering,</text>
+    <text x="80" y="429">and revenue marketing — run as one accountable team.</text>
+    <text x="80" y="457" font-weight="600">A human runs the work. AI runs underneath.</text>
+  </g>
+
+  <g transform="translate(798 181)">
+    <rect width="6" height="6" y="-4" fill="#F25A02" />
+    <text x="20" class="mono" fill="#F25A02" font-size="10" font-weight="700">GITHUB @ AXELERANT</text>
+    <path d="M0 25H320" stroke="#161616" stroke-opacity="0.16" />
+
+    <g class="mono" font-size="10" font-weight="700">
+      <text x="0" y="70" fill="#F25A02">01</text>
+      <text x="42" y="70" fill="#161616">DELIVERY AUTOMATION</text>
+      <path d="M0 92H320" stroke="#161616" stroke-opacity="0.16" />
+
+      <text x="0" y="127" fill="#F25A02">02</text>
+      <text x="42" y="127" fill="#161616">QUALITY ENGINEERING</text>
+      <path d="M0 149H320" stroke="#161616" stroke-opacity="0.16" />
+
+      <text x="0" y="184" fill="#F25A02">03</text>
+      <text x="42" y="184" fill="#161616">DEVELOPER PLATFORMS</text>
+      <path d="M0 206H320" stroke="#161616" stroke-opacity="0.16" />
+
+      <text x="0" y="241" fill="#F25A02">04</text>
+      <text x="42" y="241" fill="#161616">SHARED PRACTICE</text>
+    </g>
+  </g>
+</svg>

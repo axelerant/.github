@@ -1,26 +1,73 @@
-![Blue colored banner with Axelerant logo in the center](https://raw.githubusercontent.com/axelerant/.github/main/banner.jpg)
+<a href="https://www.axelerant.com/">
+  <img width="100%" src="./assets/axelerant-hero.svg" alt="Axelerant — Intelligence that delivers." />
+</a>
 
-# Axelerant
+<p align="center">
+  <a href="https://www.axelerant.com/">Website</a> ·
+  <a href="https://www.axelerant.com/success-stories">Our work</a> ·
+  <a href="https://www.axelerant.com/blog">Insights</a> ·
+  <a href="https://careers.axelerant.com/">Careers</a> ·
+  <a href="https://www.axelerant.com/contact">Contact</a>
+</p>
 
-At Axelerant, we fuel digital experiences with agency affiliates through engineering excellence and customer success. We move at the speed of the disruptive economy to help answer our Clients’ toughest business challenges at the intersection of Strategy, Design+Build, and Growth.
+## Four capabilities, end to end.
 
-## Open Source
+Deep enough to lead each on its own. Integrated enough to run as one accountable team.
 
-We build on top of open source and like sharing what we’ve learned. Here are some of our most recent projects:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 · STRATEGY</sub><br /><br />
+      <strong>Set the conditions.</strong><br />
+      Digital, technology, and data strategy, maturity assessment, and a roadmap sequenced into delivery.
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 · DESIGN</sub><br /><br />
+      <strong>Shape the experience.</strong><br />
+      Product, brand, and service design, design systems, accessibility, and content models that hold across every screen.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 · ENGINEERING</sub><br /><br />
+      <strong>Build at scale.</strong><br />
+      Platform, application, AI, cloud, data, and quality engineering integrated as one resilient layer.
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 · REVOPS &amp; GROWTH</sub><br /><br />
+      <strong>Move the metric.</strong><br />
+      CRM and marketing operations, demand, lifecycle, and optimization instrumented around the outcome.
+    </td>
+  </tr>
+</table>
 
-- 📜 [Axelerant Engineering Handbook](https://github.com/axelerant/engg-handbook)
-- 🤖 [Platform.sh Deploy action](https://github.com/axelerant/platformsh-deploy-action)
-- 🧑‍🎨 [Create Drupal Theme](https://github.com/axelerant/create-drupal-theme)
-- 📖 [Reading: The Pragmatic Programmer](https://github.com/axelerant/Reading-The-Pragmatic-Programmer)
+## Built in the open.
 
-## Follow Us
+Our public work reflects how we deliver: practical automation, engineering quality, developer experience, and shared ways of working.
 
-| [Engineering Blog](https://tech.axelerant.com) | [Company Blog](https://www.axelerant.com/blog) |
-| ---------------------------------------------- | ------------------------------------------ |
+| Focus | Project | Built for |
+| --- | --- | --- |
+| Delivery automation | [`platformsh-action`](https://github.com/axelerant/platformsh-action) | Deploying to Platform.sh and cleaning up inactive environments with GitHub Actions. |
+| Quality engineering | [`drupal-quality-checker`](https://github.com/axelerant/drupal-quality-checker) | Running consistent pre-commit quality checks across Drupal projects. |
+| AI-assisted delivery | [`drupal-sdlc-plugin`](https://github.com/axelerant/drupal-sdlc-plugin) | Bringing AI-native automation into Drupal delivery workflows. |
+| Developer platforms | [`backstage-plugins`](https://github.com/axelerant/backstage-plugins) | Extending Backstage with Axelerant-maintained platform integrations. |
+| Shared practice | [`engg-handbook`](https://github.com/axelerant/engg-handbook) | Sharing how our engineers plan, build, review, and learn. |
 
-| [LinkedIn](https://www.linkedin.com/company/axelerant/) | [Twitter](https://twitter.com/axelerant) | [Instagram](https://www.instagram.com/axelerantcom/) |
-| ------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------- |
+Explore all our [public repositories](https://github.com/orgs/axelerant/repositories) or read the [Axelerant Engineering Handbook](https://engg-handbook.axelerant.com/).
 
-## Work With Us
+## A human runs the work. AI runs underneath.
 
-We are a global company that puts care into employee happiness. Our diverse team works remotely from different time zones. Want to be part of our growing team? We are always [hiring](https://www.axelerant.com/careers).
+AI accelerates research, delivery, and operations. People stay accountable for the architecture, the decisions, the quality, and the metric we are here to move.
+
+## Start a conversation.
+
+Have a platform to modernize, a digital estate to consolidate, or an outcome to move? [See our work](https://www.axelerant.com/success-stories) or [tell us what you are working on](https://www.axelerant.com/contact).
+
+Looking for a remote-first team built around trust, care, and learning? [Explore careers at Axelerant](https://careers.axelerant.com/).
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/axelerant">LinkedIn</a> ·
+  <a href="https://x.com/axelerant">X</a> ·
+  <a href="https://www.youtube.com/c/Axelerant">YouTube</a> ·
+  <a href="https://www.instagram.com/axelerantcom/">Instagram</a>
+</p>
